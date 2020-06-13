@@ -1,2 +1,2 @@
 # Get Currency Price Telegram Bot
-Get Currency Price Persian Telegram bot
+you can use this repository for getting data from coinmarketcap.com and tgju.com, and you can authenticate users.
